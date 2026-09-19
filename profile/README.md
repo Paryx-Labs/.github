@@ -1,3 +1,5 @@
+<img src="https://github.com/Paryx-Labs/.github/blob/main/labs%20banner%20(1).png?raw=true" alt="Paryx Labs Banner" width="100%">
+
 ## About
 
 This organisation is home to a broader collection of Paryx's projects, including larger projects, experiments, shared work, older repositories, and projects that simply make more sense living outside of his personal profile.
